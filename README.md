@@ -8,7 +8,6 @@
 🌐 Let's connect:  
 💼 [My LinkedIn](https://www.linkedin.com/in/ansumgeorge)
 
--->
 # 💫 About Me:
 🎓 A junior Engineer @ VIT focusing on Cloud <br>💡 Curious mind | 🚀 Cloud Dev in progress | 💻 Code + Coffee lover<br>🌱 I love exploring emerging tech — currently diving deeper into AI, Machine Learning, and Cloud DevOps.<br>🔭 Currently building cloud-integrated ML projects that solve real-world problems.<br>⚡ In my free time, I solve problems on LeetCode (just completed 100 Days of Code!) or chill with a thriller Book😉<br>
 
